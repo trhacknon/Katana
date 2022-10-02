@@ -1,11 +1,11 @@
 # @name:    Katana-DorkScanner
-# @repo:    https://github.com/adnane-X-tebbaa/Katana
-# @author:  Adnane tebbaa (AXT)
+# @repo:    https://github.com/trhacknon/Katana
+# @author:  trhacknon (ANONYMOUS)
 # Tor-file V0.1
 """
 MIT License
 
-Copyright (c) 2020 adnane tebbaa
+Copyright (c) 2020 trhacknon
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -42,7 +42,7 @@ T = """
  |_   _|__  _ __
    | |/ _ \| '__| Katana-ds V1.5.3
    | | (_) | |    Tor Mode
-   |_|\___/|_|    Coded by Adnane-X-Tebbaa (AXT)
+   |_|\___/|_|    Coded by trhacknon (ANONYMOUS)
              
     """
 print(T)
