@@ -1,13 +1,13 @@
 # @name:    Katana-DorkScanner
-# @repo:    https://github.com/adnane-X-tebbaa/Katana
-# @author:  Adnane-X-tebbaa (AXT)
+# @repo:    https://github.com/trhacknon/Katana
+# @author:  trhacknon (ANONYMOUS)
 # Scada-file V2.2
 # I used dorks for the most used PLCs
 
 """
 MIT License
 
-Copyright (c) 2020 adnane tebbaa
+Copyright (c) 2020 trhacknon
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -58,7 +58,7 @@ NPP = """
    (~~~~~~~~~)                
     | POWER |    Katana-ds V1.5.3              
     |       |    Find online PLCs             
-    |      _._   by AXT (adnane-X-tebbaa)             
+    |      _._   by ANONYMOUS (trhacknon)             
     |    /    `\            
     |   |   N   |              
     |   |   |~~~~~~~~~~~~~~|   
