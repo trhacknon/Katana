@@ -1,11 +1,11 @@
 # @name:    Katana-DorkScanner
-# @repo:    https://github.com/adnane-X-tebbaa/Katana
-# @author:  Adnane tebbaa (AXT)
+# @repo:    https://github.com/trhacknon/Katana
+# @author:  trhacknon (ANONYMOUS)
 # Main-file V2.0
 """
 MIT License
 
-Copyright (c) 2020 adnane tebbaa
+Copyright (c) 2020 trhacknon
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -43,7 +43,7 @@ A = """
                     R                                                           V1.5.3
                     |
                     
-    Katana Dork Scanner (Katana-DS) coded by adnane-X-tebbaa 
+    Katana Dork Scanner (Katana-DS) Modded by trhacknon
     please use -h to see help
     """
 print ("")
