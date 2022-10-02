@@ -2,7 +2,7 @@
 [![Github All Releases](https://img.shields.io/badge/Katana--ds-version%201.5.3-red)]()
 [![Github All Releases](https://img.shields.io/badge/support-python%203.7%2F3.8%20%2B-brightgreen)]()
 [![Github All Releases](https://img.shields.io/badge/platform-windows%20%7C%20linux-lightgrey)]()
-[![Github All Releases](https://img.shields.io/twitter/follow/TebbaaX)]()
+[![Github All Releases](https://img.shields.io/twitter/follow/)]()
 
 Katana-ds (ds for dork_scanner) is a simple python tool that automates Google Hacking/Dorking and supports Tor.
 It becomes a more powerful in combination with [GHDB](https://www.exploit-db.com/google-hacking-database)
@@ -10,7 +10,7 @@ It becomes a more powerful in combination with [GHDB](https://www.exploit-db.com
 **Note 25/09/2021** : This Repo is New but the script it self is old back when google dorking was something, i wrote this script back in Highschool during the process of learning how to scrap using python and in order to get to use on bs4 and other Python Packages and i learned alot of things along, still there's alot of people who use this script... Thanks for 500 ⭐
 
 
-![Alt text](https://github.com/adnane-X-tebbaa/imgs/blob/master/img1.jpg)
+![Alt text](https://github.com/trhacknon/imgs/blob/master/img1.jpg)
 
 ## Installation :
 
@@ -88,8 +88,8 @@ Tor mode gives you 1 input which is the search query but before you should have 
 Proxy mode find proxy servers and print them it will print 100 Different Proxy server Each time
 
 
-## Please feel free to open ISSUES or contact me on [twitter](https://twitter.com/TebbaaX) 
+## Please feel free to open ISSUES or contact me on [twitter](https://twitter.com/) 
 
 ## License
 
-[MIT](https://github.com/adnane-X-tebbaa/Katana/blob/master/LICENSE.txt)
+[MIT](https://github.com/trhacknon/Katana/blob/master/LICENSE.txt)
