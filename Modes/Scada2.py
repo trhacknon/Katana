@@ -1,13 +1,13 @@
 # @name:    Katana-DorkScanner
-# @repo:    https://github.com/adnane-X-tebbaa/Katana
-# @author:  Adnane-X-tebbaa (AXT)
+# @repo:    https://github.com/trhacknon/Katana
+# @author:  trhacknon (ANONYMOUS)
 # Scada-file 2 V0.1
 # More Dorks added
 
 """
 MIT License
 
-Copyright (c) 2020 adnane tebbaa
+Copyright (c) 2020 trhacknon
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
