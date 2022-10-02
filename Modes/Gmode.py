@@ -1,11 +1,11 @@
-# @name:    Katana-dorkscanner
-# @repo:    https://github.com/adnane-X-tebbaa/Katana
-# @author:  Adnane tebbaa (AXT)
+# @name:    Katana-DorkScanner
+# @repo:    https://github.com/trhacknon/Katana
+# @author:  trhacknon (ANONYMOUS)
 # Main Google Dorking file V2.0
 """
 MIT License
 
-Copyright (c) 2020 adnane tebbaa
+Copyright (c) 2020 trhackn0n
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -57,7 +57,7 @@ A = """
 ,_._._._._._._._._|__________________________________________________________
 |G|o|o|g|l|e|_|_|_|_________________________________________________________/
                   |
-    Katana dork scanner (Katana-ds V1.5.3) coded by adnane-X-tebbaa 
+    Katana dork scanner (Katana-ds V1.5.3) modded by trhackn9n 
     Google Mode
 """
 print ("")
